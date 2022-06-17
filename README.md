@@ -36,3 +36,6 @@ npm start
 ```
 ## Screenshots
 
+#### Mainpage
+![ss1](https://user-images.githubusercontent.com/64795363/174273572-92475d41-3c33-4b20-ba5d-12c1801230df.png)
+
