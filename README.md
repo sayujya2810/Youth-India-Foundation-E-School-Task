@@ -8,10 +8,10 @@ You can navigate through various pagination to find desired Pokemon. There is an
 
 ### Downloading
 
-To get this Project Copy below .git URI 
+To get this Project Copy below code and paste in terminal then press ENTER 
 
 ```bash
-  https://github.com/sayujya2810/Youth-India-Foundation-E-School-Task.git
+  git clone https://github.com/sayujya2810/Youth-India-Foundation-E-School-Task.git
 ```
 
 
