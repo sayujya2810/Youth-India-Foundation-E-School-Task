@@ -36,4 +36,3 @@ npm start
 ```
 ## Screenshots
 
-![main1](https://github.com/sayujya2810/ Youth-India-Foundation-E-School-Task/blob/main/ss1.png?raw=true)
