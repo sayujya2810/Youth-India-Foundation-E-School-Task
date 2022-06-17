@@ -39,3 +39,11 @@ npm start
 #### Mainpage
 ![ss1](https://user-images.githubusercontent.com/64795363/174273572-92475d41-3c33-4b20-ba5d-12c1801230df.png)
 
+#### Mainpage scrolled down
+![ss2](https://user-images.githubusercontent.com/64795363/174273794-b76c1e4b-bd15-4d2e-b28a-bc0ebd2bc4d7.png)
+
+#### Next Page
+![ss3](https://user-images.githubusercontent.com/64795363/174273799-04e567c1-c102-4993-8356-caa1c3d58e5f.png)
+
+#### Searching a particular Pokemon using name
+![ss4](https://user-images.githubusercontent.com/64795363/174273801-b01e4741-7105-4348-9acb-f01d8f47052f.png)
