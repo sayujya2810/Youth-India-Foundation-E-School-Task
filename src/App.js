@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import PokemonGrid from './components/PokemonGrid';
 import SingleCard from './components/SingleCard';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -110,6 +111,8 @@ return (
       <PokemonGrid loading={loading} pokemon={pokemonList} />
 
     }
+
+    <Footer />
 
 
   </div>
