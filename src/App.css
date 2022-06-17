@@ -1,20 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;500;600;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*{
+  /* font-family: 'Prompt', sans-serif; */
+  font-family: 'Press Start 2P', cursive;
+  letter-spacing: 2px;
+}
+
 .App{
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: bisque;
-}
-
-
-.card{
-  background-color: aqua;
-  width: 20%;
-  height: 250px;
-  margin: 10px;
   padding: 1rem;
+  background-color: rgb(104, 255, 124);
+  -webkit-user-select: none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
 }
 
-.name-header{
-  font-size: 20px;
+
+#search{
+  padding: 1rem;
+  border-radius: 10px;
+  border: 2px solid black;
+  outline: none;
+}
+
+.btn{
+  padding:1rem;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-left: 10px;
 }
